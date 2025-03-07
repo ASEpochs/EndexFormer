@@ -8,4 +8,4 @@ We are currently writing a research paper that introduces novel ideas and method
 
 ## 🚩 Code Release
 
-The code for reproducing the experiments and results presented in the paper will be released as soon as possible. We are working diligently to ensure that all implementations are well-documented and easy to use.
+The code for reproducing the experiments and results presented in the paper will be released as soon as possible. We are working diligently to ensure that all implementations are well-documented and easy to use. 
